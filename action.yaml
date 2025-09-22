@@ -7,4 +7,4 @@ runs:
       id: important_stuff
       shell: bash
       run: |
-        echo "Hello from a suspicious v1.2"
+        echo "Hello from a someehat suspicious v1.2"
