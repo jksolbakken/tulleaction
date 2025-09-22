@@ -7,4 +7,4 @@ runs:
       id: important_stuff
       shell: bash
       run: |
-        echo "Hello from action"
+        echo "Hello from changed action"
