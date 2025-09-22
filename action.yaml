@@ -7,4 +7,4 @@ runs:
       id: important_stuff
       shell: bash
       run: |
-        echo "Can I fool you?"
+        echo "Jada neida"
