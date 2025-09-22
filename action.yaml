@@ -7,4 +7,4 @@ runs:
       id: important_stuff
       shell: bash
       run: |
-        echo "Hello from a different v1.2"
+        echo "Can I fool you?"
